@@ -1,6 +1,6 @@
 {
-    "name": "Project Name",
-    "module_name": "pr_module",
+    "name": "IGL",
+    "module_name": "pr_igl",
     "install_directory": "modules/",
     "release_directory": ""
 }
