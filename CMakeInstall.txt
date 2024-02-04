@@ -1,0 +1,2 @@
+# Install the library
+pragma_install_lib("${CMAKE_CURRENT_BINARY_DIR}/modules/pr_igl/${PR_MODULE_INSTALL_SUBDIR}/${OS_LIB_BIN_PRE}pr_igl${OS_LIB_BIN_EXT}" "modules/")
